@@ -1,4 +1,4 @@
-# C Programing
+# C Programming
 In this semester I'll participate at evoCampus where me and my teammates will develop a robot OS. Before that I want to practice some C. That's why this repository will contain some simple projects 
 <hr>
 
